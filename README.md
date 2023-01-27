@@ -1,2 +1,2 @@
 # flame4ost_web
-for fun
+https://googlove.netlify.app/
